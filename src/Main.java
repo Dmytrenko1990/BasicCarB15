@@ -15,5 +15,10 @@ public class Main {
         neon.color="red";
         neon.size="15sm";
         neon.intensity="8000 lumens";
+
+        Color col=new Color();
+        col.colorLights="True";
+        col.colorTire="false";
+        col.colorWindows="black";
     }
 }
