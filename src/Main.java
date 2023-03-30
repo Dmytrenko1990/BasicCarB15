@@ -10,5 +10,10 @@ public class Main {
         x.cylinders="8";
         x.size="SUV";
         x.weight="2545";
+
+        Lights neon=new Lights();
+        neon.color="red";
+        neon.size="15sm";
+        neon.intensity="8000 lumens";
     }
 }
